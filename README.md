@@ -2,7 +2,7 @@
 
 ![Licencia MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Este repositorio contiene una plantilla base altamente optimizada, segura y dinámica para el archivo de configuración `wp-config.php` de WordPress. Está diseñada para ser portátil entre entornos (desarrollo, staging y producción) sin necesidad de editar rutas duras (*hardcoding*).
+Este repositorio contiene un archivo `.htaccess` con una configuración maestra de nivel de producción optimizada para WordPress. Combina políticas avanzadas de seguridad cibernética, mitigación de amenazas y optimización de rendimiento en un único módulo defensivo y de aceleración web.
 
 ---
 
